@@ -1,12 +1,12 @@
 {
-  "name": "WebToDesk",
-  "version": "2.0.0",
-  "description": "Convert Website to Desktop application",
+  "name": "Book Zambia",
+  "version": "1.0.0",
+  "description": "Book ZambiaDesktop application",
   "main": "main.js",
   "scripts": {
     "start": "electron ."
   },
-  "author": "Sammera Damith (CodeStack)",
+  "author": "Dominic Nshimba (DOMITECH)",
   "license": "CC0-1.0",
   "devDependencies": {
     "electron": "^16.0.6",
