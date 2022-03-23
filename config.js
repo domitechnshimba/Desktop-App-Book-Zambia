@@ -4,10 +4,10 @@
 
 const config = {
     // Main Application URL
-    'websiteUrl' : 'http://example.com',
+    'websiteUrl' : 'https://bookzambia.com',
 
     // Application Name
-    'appName' : 'WebToDesk',
+    'appName' : 'Book Zambia',
 
     // Application window width and height
     'width' : 1280,
